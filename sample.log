@@ -1,0 +1,10 @@
+2026-11-20 09:00:12 INFO Application started successfully
+2026-11-20 09:01:05 INFO User logged in
+2026-11-20 09:02:18 WARNING Disk space is getting low
+2026-11-20 09:03:44 ERROR Unable to connect to database
+2026-11-20 09:04:10 INFO Retrying database connection
+2026-11-20 09:04:15 INFO Database connection established
+2026-11-20 09:05:02 WARNING High memory usage detected
+2026-11-20 09:06:30 ERROR File not found: config.txt
+2026-11-20 09:07:12 INFO Configuration reloaded
+2026-11-20 09:08:00 INFO Application running normally
